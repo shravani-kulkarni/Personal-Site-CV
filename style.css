@@ -1,0 +1,38 @@
+body {
+  background-color: #D5BFBF;
+}
+
+hr {
+  background-color: #D5BFBF;
+  border-style: dotted none none;
+  border-color: #8CA1A5;
+  border-width: 5px;
+  height: 0px;
+  width: 10%;
+}
+
+h1 {
+  color: #316B83;
+  font-family: garamond;
+}
+
+h3 {
+  color: #316B83;
+  font-family: garamond;
+  text-decoration: underline #1572A1 wavy;
+}
+
+p {
+  color: #6D8299;
+  font-family: cursive;
+}
+
+ul {
+  color: #6D8299;
+  font-family: cursive;
+}
+
+table {
+  color: #6D8299;
+  font-family: cursive;
+}
